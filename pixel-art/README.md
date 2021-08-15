@@ -48,10 +48,6 @@ function PixelArt(el, rows, cols) {
 
 ![](./images/3.png)
 
-
-
-
-
 <br />
 
 [Telegram](http://t.me/teamdevkode) | [Instagram](https://www.instagram.com/devkode.io/) | [Website](https://learn.devkode.io/)

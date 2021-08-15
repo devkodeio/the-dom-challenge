@@ -4,7 +4,6 @@ Create star rating utility using HTML, CSS and JavaScript
 
 **Playground:** [JSFiddle](https://jsfiddle.net/devkode/wxoykdgm/)
 
-
 ## Template
 
 > HTML
@@ -80,9 +79,6 @@ function Star(el, count, callback) {
 > On Click
 
 ![](./images/3.png)
-
-
-
 
 
 <br />

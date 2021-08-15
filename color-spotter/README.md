@@ -6,7 +6,6 @@ First, you start out with 4x4 grid, and click on the one where the shade looks s
 
 Each time you pick the correct cell, a new set of NxN grid is shown and you must once again pick the cell that stands out to you as different.
 
-**Submit:** [challenges.devkode.io](challenges.devkode.io)
 
 **Time Duration:** 90 minutes
 
