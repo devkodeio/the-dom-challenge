@@ -15,6 +15,10 @@ Create star rating utility using HTML, CSS and JavaScript  [View](./star-rating/
 
 **Duration:** 60 Minutes <br/>
 
+**Solution 1:** https://jsfiddle.net/devkodeio/2ovtnj8f/
+
+**Solution 2:** https://jsfiddle.net/devkodeio/dry8mczx/
+
 ---
 
 ### Challenge 2:
