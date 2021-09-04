@@ -51,6 +51,8 @@ Create a Progress bar using HTML, CSS and Vanilla Javascript. [View](./progress-
 
 **Duration:** 60 - 90 Minutes <br/>
 
+**Submit** [here](https://forms.gle/m23NGEvEZa62ozJy8)
+
 <br />
 
 [Telegram](http://t.me/teamdevkode) | [Instagram](https://www.instagram.com/devkode.io/) | [Website](https://learn.devkode.io/)
