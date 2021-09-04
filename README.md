@@ -43,6 +43,13 @@ Create a color spotter game using HTML, CSS and Vanilla Javascript, where you ha
 
 **Duration:** 90 Minutes <br/>
 
+---
+
+### Challenge 5:
+
+Create a Progress bar using HTML, CSS and Vanilla Javascript. [View](./progress-bar/README.md)
+
+**Duration:** 60 - 90 Minutes <br/>
 
 <br />
 
