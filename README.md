@@ -10,7 +10,7 @@ industrial level machine round questions.
 
 ### Challenge 1:
 
-Create star rating utility using HTML, CSS and JavaScript  [View](./star-rating/README.md)
+Implement Star Rating Widget using HTML, CSS and JavaScript  [View](./star-rating/README.md)
 
 
 **Duration:** 60 Minutes <br/>
@@ -23,7 +23,7 @@ Create star rating utility using HTML, CSS and JavaScript  [View](./star-rating/
 
 ### Challenge 2:
 
-Create Pixel Art grid using HTML, CSS and JavaScript [View](./pixel-art/README.md)
+Implement Pixel Art grid using HTML, CSS and JavaScript [View](./pixel-art/README.md)
 
 **Duration:** 60 Minutes <br/>
 
@@ -31,7 +31,7 @@ Create Pixel Art grid using HTML, CSS and JavaScript [View](./pixel-art/README.m
 
 ### Challenge 3:
 
-Create a chess board using HTML, CSS and Vanilla Javascript, where if you click on any of the block it should highlight its diagonals. [View](./chess-board/README.md)
+Implement chess board using HTML, CSS and Vanilla Javascript, where if you click on any of the block it should highlight its diagonals. [View](./chess-board/README.md)
 
 **Duration:** 90 Minutes <br/>
 
@@ -39,7 +39,7 @@ Create a chess board using HTML, CSS and Vanilla Javascript, where if you click 
 
 ### Challenge 4:
 
-Create a color spotter game using HTML, CSS and Vanilla Javascript, where you have to identify the cell that is different from the rest. [View](./color-spotter/README.md)
+Implement color spotter game using HTML, CSS and Vanilla Javascript, where you have to identify the cell that is different from the rest. [View](./color-spotter/README.md)
 
 **Duration:** 90 Minutes <br/>
 
@@ -47,11 +47,19 @@ Create a color spotter game using HTML, CSS and Vanilla Javascript, where you ha
 
 ### Challenge 5:
 
-Create a Progress bar using HTML, CSS and Vanilla Javascript. [View](./progress-bar/README.md)
+Implement Progress bar using HTML, CSS and Vanilla Javascript. [View](./progress-bar/README.md)
 
-**Duration:** 60 - 90 Minutes <br/>
+**Duration:** 90 Minutes <br/>
 
-**Submit** [here](https://forms.gle/m23NGEvEZa62ozJy8)
+---
+
+### Challenge 6:
+
+Implement Memory Game using HTML, CSS and Vanilla Javascript. [View](./memory-game/README.md)
+
+**Duration:** 90 Minutes <br/>
+
+**Submit:** [here](https://forms.gle/vSt1zwATgAWcbmZeA)
 
 <br />
 
