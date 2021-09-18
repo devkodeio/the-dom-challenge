@@ -11,22 +11,21 @@ Implement Memory Game using HTML, CSS and Vanilla Javascript.
 - Else shake the container to indicate the wrong click and start over.
 - Maintain the current score of the game.
 
-**Submit:** [here](https://forms.gle/vSt1zwATgAWcbmZeA)
-
 **Editor:** [jsfiddle](https://jsfiddle.net/)
 
 **Time Duration:** 90 minutes
 
 #### Bonus:
+
 - Record and maintain the High Score.
 - Store the High Score in Local Storage to persist over refresh.
 
 #### Instructions:
+
 - No need to focus on responsiveness.
 - No use of any library or framework.
 - Code should be well structured with optimised solution.
 - Code should easily accomodate new requirements and minimal changes.
-
 
 ### Demo
 
@@ -38,7 +37,6 @@ Implement Memory Game using HTML, CSS and Vanilla Javascript.
 
 ![](./images/2.gif)
 
-
 > In case of wrong attempt
 
 ![](./images/3.gif)
@@ -46,6 +44,7 @@ Implement Memory Game using HTML, CSS and Vanilla Javascript.
 <br />
 
 > Reference: CSS
+
 ```
 .shake {
     animation: shake 0.8s infinite;
@@ -53,13 +52,13 @@ Implement Memory Game using HTML, CSS and Vanilla Javascript.
 }
 
 @keyframes shake {
-    0% {transform: translateX(0);} 
-    10%, 30%, 50%, 70%, 90% {transform: translateX(-8px);} 
-    20%, 40%, 60%, 80%,100% {transform: translateX(8px);} 
- } 
+    0% {transform: translateX(0);}
+    10%, 30%, 50%, 70%, 90% {transform: translateX(-8px);}
+    20%, 40%, 60%, 80%,100% {transform: translateX(8px);}
+ }
 ```
 
-All the best :) 
+All the best :)
 
 <br />
 

@@ -1,7 +1,7 @@
 # The DOM Challenge
 
 Devkode is coming up with a weekly hackathon, **#TheDOMChallenge** <br />
-It's a 60-90 minutes online weekly challenge related to frontend development consisting of 
+It's a 60-90 minutes online weekly challenge related to frontend development consisting of
 industrial level machine round questions.
 
 **Registration link** - [devkode.io/the-dom-challenge](https://devkode.io/the-dom-challenge/)
@@ -10,8 +10,7 @@ industrial level machine round questions.
 
 ### Challenge 1:
 
-Implement Star Rating Widget using HTML, CSS and JavaScript  [View](./star-rating/README.md)
-
+Implement Star Rating Widget using HTML, CSS and JavaScript [View](./star-rating/README.md)
 
 **Duration:** 60 Minutes <br/>
 
@@ -59,7 +58,15 @@ Implement Memory Game using HTML, CSS and Vanilla Javascript. [View](./memory-ga
 
 **Duration:** 90 Minutes <br/>
 
-**Submit:** [here](https://forms.gle/vSt1zwATgAWcbmZeA)
+---
+
+### Challenge 7:
+
+Implement Day Calendar using HTML, CSS and Vanilla Javascript. [View](./calendar/README.md)
+
+**Duration:** 120 Minutes <br/>
+
+<!-- **Submit:** [here](https://forms.gle/vSt1zwATgAWcbmZeA) -->
 
 <br />
 
