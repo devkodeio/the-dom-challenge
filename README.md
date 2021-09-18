@@ -66,7 +66,7 @@ Implement Day Calendar using HTML, CSS and Vanilla Javascript. [View](./calendar
 
 **Duration:** 120 Minutes <br/>
 
-<!-- **Submit:** [here](https://forms.gle/vSt1zwATgAWcbmZeA) -->
+**Submit:** [here](https://forms.gle/Mjo1sGDwo3qvJZTE6)
 
 <br />
 
