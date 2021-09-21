@@ -4,8 +4,6 @@ Devkode is coming up with a weekly hackathon, **#TheDOMChallenge** <br />
 It's a 60-90 minutes online weekly challenge related to frontend development consisting of
 industrial level machine round questions.
 
-**Registration link** - [devkode.io/the-dom-challenge](https://devkode.io/the-dom-challenge/)
-
 ---
 
 ### Challenge 1:
@@ -65,8 +63,6 @@ Implement Memory Game using HTML, CSS and Vanilla Javascript. [View](./memory-ga
 Implement Day Calendar using HTML, CSS and Vanilla Javascript. [View](./calendar/README.md)
 
 **Duration:** 120 Minutes <br/>
-
-**Submit:** [here](https://forms.gle/Mjo1sGDwo3qvJZTE6)
 
 <br />
 

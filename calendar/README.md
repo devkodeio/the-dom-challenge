@@ -14,10 +14,6 @@ Implement Day Calendar using HTML, CSS and Vanilla Javascript.
 - The events in the array can be in any random order.
 - Event's end time will always be higher than the start time with a non zero duration.
 
-**Submit:** [here](https://forms.gle/Mjo1sGDwo3qvJZTE6)
-
-**Editor:** [jsfiddle](https://jsfiddle.net/)
-
 **Time Duration:** 120 minutes
 
 #### Instructions:

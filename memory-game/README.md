@@ -11,8 +11,6 @@ Implement Memory Game using HTML, CSS and Vanilla Javascript.
 - Else shake the container to indicate the wrong click and start over.
 - Maintain the current score of the game.
 
-**Editor:** [jsfiddle](https://jsfiddle.net/)
-
 **Time Duration:** 90 minutes
 
 #### Bonus:

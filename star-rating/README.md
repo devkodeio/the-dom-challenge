@@ -1,12 +1,13 @@
 ### Challenge 1: Star Rating
 
-Create star rating utility using HTML, CSS and JavaScript 
+Create star rating utility using HTML, CSS and JavaScript
 
 **Playground:** [JSFiddle](https://jsfiddle.net/devkode/wxoykdgm/)
 
 ## Template
 
 > HTML
+
 ```
 <body>
     <div id="star"></div>
@@ -50,7 +51,6 @@ Create star rating utility using HTML, CSS and JavaScript
 }
 ```
 
-
 > JS
 
 ```
@@ -79,7 +79,6 @@ function Star(el, count, callback) {
 > On Click
 
 ![](./images/3.png)
-
 
 <br />
 
