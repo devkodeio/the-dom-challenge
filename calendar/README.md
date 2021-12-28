@@ -84,7 +84,7 @@ Implement Day Calendar using HTML, CSS and Vanilla Javascript.
 
 <br />
 
-> Sample Data: (Non-conflicting data)
+> Sample Data: (Conflicting data)
 
 ```
 [
