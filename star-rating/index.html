@@ -1,23 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Challenge 1</title>
-    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-    <div id="star"></div>
-    <div id="display-star"></div>
-
-
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Star Rating</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <span class="stars">
+      <span class="star empty show"></span>
+      <span class="star empty show"></span>
+      <span class="star empty show"></span>
+      <span class="star empty show"></span>
+      <span class="star empty show"></span>
+    </span>
     <script src="script.js"></script>
-    <script>
-        function getStar(value){
-            document.getElementById("display-star").innerHTML = value;
-        }
-        new Star("#star", 5, getStar);
-    </script>
-</body>
+  </body>
 </html>

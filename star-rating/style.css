@@ -1,9 +1,15 @@
-.fa-star-o:before {
-    content: "\f006";
-    color: #5f6368;
+.empty {
+  background-image: url(https://img.icons8.com/windows/32/000000/star--v2.png);
+  height: 32px;
+  width: 32px;
 }
 
-.fa-star:before {
-    content: "\f005";
-    color: #d56e0c;
+.filled {
+    background-image: url(https://img.icons8.com/ios-filled/32/bf7202/star--v1.png);
+    height: 32px;
+    width: 32px;
+}
+
+.show {
+    display: inline-block;
 }
