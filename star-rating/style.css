@@ -1,3 +1,25 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; 
+}
+
+.stars {
+  background: rgba(255, 166, 0, 0.287);
+  padding: 1em;
+  border-radius: 4px;
+}
+
 .empty {
   background-image: url(https://img.icons8.com/windows/32/000000/star--v2.png);
   height: 32px;
@@ -12,4 +34,12 @@
 
 .show {
     display: inline-block;
+}
+
+#count {
+  margin-top: 2em;
+  padding: 0.4em 0.8em;
+  border-radius: 2px;
+  display: block;
+  background: rgba(255, 166, 0, 0.287);
 }
