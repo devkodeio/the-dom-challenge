@@ -1,6 +1,7 @@
 let grid = document.querySelector('#grid');
+let cell = null;
 let rows=null;
-let selectedColor = 
+let selectedColor = "rgb(0,0,0)"
 function pixelArt(el,rows,columns){
     let griditem="";
     for(let i=0;i<rows;i++){
@@ -12,7 +13,28 @@ function pixelArt(el,rows,columns){
     rows = document.querySelectorAll('.grid-row');
     rows[9].innerHTML= colorCols(columns);
     let colors = rows[9].querySelectorAll(".cell");
-
+    colors.forEach(function(item) {
+        item.addEventListener('click', function (e) {
+            selectedColor=(e.target.style.backgroundColor);
+        });
+    });
+    cell = document.querySelectorAll('.grid-col');
+    cell.forEach(function(item) {
+        item.addEventListener('click', function (e) {
+            e.preventDefault()
+            e.target.style.backgroundColor= selectedColor;
+        });
+        item.addEventListener('drag', function (e) {
+            e.target.style.backgroundColor= selectedColor;
+        });
+        item.addEventListener('dragstart', function (e) {
+            e.target.style.backgroundColor= selectedColor;
+        });
+        item.addEventListener('dragover', function (e) {
+            e.preventDefault()
+            e.target.style.backgroundColor= selectedColor;
+        });
+    });
 }
 
 function colorCols(col) {
@@ -21,7 +43,7 @@ function colorCols(col) {
         let a= Math.floor(Math.random() * 256); 
         let b= Math.floor(Math.random() * 256); 
         let c= Math.floor(Math.random() * 256); 
-        str+=`<div class="grid-col cell" style="background-color:rgb(${a},${b},${c}); cursor:pointer"></div>`
+        str+=`<div class="grid-col10 cell" style="background-color:rgb(${a},${b},${c}); cursor:pointer"></div>`
     }
     return str
 }
