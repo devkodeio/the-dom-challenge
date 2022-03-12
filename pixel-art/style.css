@@ -1,0 +1,31 @@
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.cell {
+    display: flex;
+    height: 64px;
+    width: 64px;
+    border: 2px #c6c6c6 solid;
+}
+
+.grid-col{
+    display: flex;
+    flex-direction: column;
+}
+
+.grid-row{
+    display: flex;
+    flex-direction: row;
+}
