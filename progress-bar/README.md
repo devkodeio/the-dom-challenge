@@ -39,3 +39,5 @@ All the best :)
 <br />
 
 [Telegram](http://t.me/teamdevkode) | [Instagram](https://www.instagram.com/devkode.io/) | [Website](https://learn.devkode.io/)
+
+Sample REPL: https://svelte.dev/repl/ce70295c502845fca06ded78fb1800ba?version=3.50.1
